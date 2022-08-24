@@ -2,5 +2,12 @@
 int main(void)
 {
     printf("Hello World");
+
+    int i;
+    i=5;
+    for(int n=0;n<i;n++)
+    {
+        printf("Hello world\n");
+    }
     return 0;
 }
