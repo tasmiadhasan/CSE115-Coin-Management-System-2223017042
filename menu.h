@@ -278,6 +278,7 @@ void menu()
             break;
             case 4:
             {
+            system("CLS");
             splash();
              puts("\n                                         Turkish all coin list\n");
             int sub4=0;
@@ -364,7 +365,7 @@ void menu()
             case 5:
                 { system("CLS");
                 splash();
-                    printf("\n                            You Exited the program.\n\n");
+                    printf("\n                                         You Exited the program.\n\n");
                     return 0;
                 }
 
