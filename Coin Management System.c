@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include<string.h>
 #include "splash.h"
 #include "menu.h"
 struct login{
