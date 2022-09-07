@@ -11,22 +11,22 @@
 
 
 Progress
-- [ ] Splash screen
-- [ ] Login
-- [ ] Menu driven program                              
-- [ ] Database
+- [x] Splash screen
+- [x] Login
+- [x] Menu driven program                              
+- [x] Database
 
 Topics that need to be covered:
-- [ ] Function
-- [ ] Condition
-- [ ] Loop
-- [ ] Nested loop
-- [ ] Pointer
-- [ ] Array
-- [ ] String
-- [ ] Recursion
-- [ ] Structure
-- [ ] File
+- [x] Function
+- [x] Condition
+- [x] Loop
+- [x] Nested loop
+- [x] Pointer
+- [x] Array
+- [x] String
+- [x] Recursion
+- [x] Structure
+- [x] File
 <h2>How to run this project</h2>
 To run this project, user has to download the project and open it in code blocks and compile the main.c file. To see the integration of picture and data used, the directory has to be replaced appropriately where necessary. 
 
