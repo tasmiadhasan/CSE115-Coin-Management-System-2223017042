@@ -46,7 +46,7 @@ void menu()
                     if(bd==1)
                 { system("CLS");
                 splash();
-                system("C:\\Users\\Mitul\\Desktop\\trail\\one.jpg");}
+                system("C:\\Users\\gtcs\\Documents\\GitHub\\CSE115-Coin-Management-System-2223017042\\one.jpg");}
 
                     else if(bd==2)
                         { system("CLS");
@@ -67,7 +67,7 @@ void menu()
                     if(bd==1)
                 { system("CLS");
                 splash();
-                    system("C:\\Users\\Mitul\\Desktop\\trail\\two.jpg");}
+                    system("C:\\Users\\gtcs\\Documents\\GitHub\\CSE115-Coin-Management-System-2223017042\\two.jpg");}
 
                     else if(bd==2)
 
@@ -90,7 +90,7 @@ void menu()
                     if(bd==1)
                 { system("CLS");
                 splash();
-                system("C:\\Users\\Mitul\\Desktop\\trail\\five.jpg");}
+                system("C:\\Users\\gtcs\\Documents\\GitHub\\CSE115-Coin-Management-System-2223017042\\five.jpg");}
 
                     else if(bd==2)
                         { system("CLS");
@@ -136,7 +136,7 @@ void menu()
                     if(in==1)
                        { system("CLS");
                        splash();
-                       system("C:\\Users\\Mitul\\Desktop\\trail\\oneru.jpg");}
+                       system("C:\\Users\\gtcs\\Documents\\GitHub\\CSE115-Coin-Management-System-2223017042\\oneru.jpg");}
 
                     else if(in==2)
                         { system("CLS");
@@ -157,7 +157,7 @@ void menu()
                     if(in==1)
                 { system("CLS");
                 splash();
-                system("C:\\Users\\Mitul\\Desktop\\trail\\tworu.jpg");}
+                system("C:\\Users\\gtcs\\Documents\\GitHub\\CSE115-Coin-Management-System-2223017042\\tworu.jpg");}
 
                     else if(in==2)
                         { system("CLS");
@@ -177,7 +177,7 @@ void menu()
                     if(in==1)
                 { system("CLS");
                 splash();
-                system("C:\\Users\\Mitul\\Desktop\\trail\\5ru.jpg");}
+                system("C:\\Users\\gtcs\\Documents\\GitHub\\CSE115-Coin-Management-System-2223017042\\5ru.jpg");}
                     else if(in==2)
                         { system("CLS");
                         splash();
@@ -219,7 +219,7 @@ void menu()
                     if(pk==1)
                        { system("CLS");\
                        splash();
-                       system("C:\\Users\\Mitul\\Desktop\\trail\\p1.jpg");}
+                       system("C:\\Users\\gtcs\\Documents\\GitHub\\CSE115-Coin-Management-System-2223017042\\p1.jpg");}
 
                     else if(pk==2)
                         { system("CLS");
@@ -239,7 +239,7 @@ void menu()
                     if(pk==1)
                 { system("CLS");
                 splash();
-                system("C:\\Users\\Mitul\\Desktop\\trail\\p2.jpg");}
+                system("C:\\Users\\gtcs\\Documents\\GitHub\\CSE115-Coin-Management-System-2223017042\\p2.jpg");}
 
                     else if(pk==2)
                         { system("CLS");
@@ -259,7 +259,7 @@ void menu()
                     if(pk==1)
                 { system("CLS");
                 splash();
-                system("C:\\Users\\Mitul\\Desktop\\trail\\p5.jpg");}
+                system("C:\\Users\\gtcs\\Documents\\GitHub\\CSE115-Coin-Management-System-2223017042\\p5.jpg");}
                     else if(pk==2)
                         { system("CLS");
                         splash();
@@ -303,7 +303,7 @@ void menu()
                     if(tk==1)
                        { system("CLS");
                        splash();
-                       system("C:\\Users\\Mitul\\Desktop\\trail\\1lira.jpg");}
+                       system("C:\\Users\\gtcs\\Documents\\GitHub\\CSE115-Coin-Management-System-2223017042\\1lira.jpg");}
 
                     else if(tk==2)
                         { system("CLS");
@@ -325,7 +325,7 @@ void menu()
                     if(tk==1)
                 { system("CLS");
                 splash();
-                system("C:\\Users\\Mitul\\Desktop\\trail\\2lira.jpg");}
+                system("C:\\Users\\gtcs\\Documents\\GitHub\\CSE115-Coin-Management-System-2223017042\\2lira.jpg");}
 
                     else if(tk==2)
                         { system("CLS");
@@ -345,7 +345,7 @@ void menu()
                     if(tk==1)
                 { system("CLS");
                 splash();
-                system("C:\\Users\\Mitul\\Desktop\\trail\\5lira.jpg");}
+                system("C:\\Users\\gtcs\\Documents\\GitHub\\CSE115-Coin-Management-System-2223017042\\5lira.jpg");}
                     else if(tk==2)
                         { system("CLS");
                         splash();
